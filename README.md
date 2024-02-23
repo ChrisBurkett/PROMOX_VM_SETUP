@@ -13,11 +13,15 @@ Setting up first Virtual Machine with Proxmox.
 
 - <b>Proxmox</b>
 
-<h2>Bios Settings:</h2>
+<h2>Add VM ISO to PROMOX:</h2>
 
 <p align="center">
-Continuous press the DELETE key after turning on the computer to enter the Bios menu.: <br/>
-<img src="https://i.imgur.com/NFBhLCl.jpeg" height="80%" width="80%" alt="Creating"/>
+Navigate to your Proxmox server in a web browser: <br/>
+Navigate to Local storage, ISO Images, and click Upload on the top of the page: <br/>
+Use "select file" and select the ISO image from your computer and click upload: <br/>
+This will upload the ISO onto your Promox storage: <br/>
+: <br/> 
+<img src="https://i.imgur.com/9jE7v71.png" height="80%" width="80%" alt="Creating"/>
 <br />
 <br />
 Find and enable SVM Mode (Secure Virtual Machine):  <br/>
