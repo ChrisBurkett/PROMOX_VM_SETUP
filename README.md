@@ -49,10 +49,8 @@ Click Next:  <br/>
 <img src="https://i.imgur.com/ugUmjOE.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
-Add a strong root password:  <br/>
-Add an Administrator email:  <br/>
-Use a real email, this email can be used in the future with advanced features and updates:  <br/>
-<img src="https://i.imgur.com/L551WLF.png" height="80%" width="80%" alt="Desk"/>
+Change memory allocation here and click next:  <br/>
+<img src="https://i.imgur.com/69Y0G3l.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
 Select Management Interface (Internet access):  <br/>
