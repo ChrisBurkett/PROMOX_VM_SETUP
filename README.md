@@ -57,10 +57,8 @@ Choose what network interface card you want your VM to use, click next:  <br/>
 <img src="https://i.imgur.com/TB12V0K.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
-Verify your info and Install:  <br/>
-Wait for the instal to finish and the computer to restart:  <br/>
-This server will be headless, we will login into the Proxmox server over the network:  <br/>
-<img src="https://i.imgur.com/7CO1IN5.png" height="80%" width="80%" alt="Desk"/>
+Verify your VM info and click Finish:  <br/>
+<img src="https://i.imgur.com/7RJGQpl.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
 Verfy your server IP is outside of your DCHP:  <br/>
