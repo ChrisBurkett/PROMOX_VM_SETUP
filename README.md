@@ -29,9 +29,8 @@ Give your VM a name and click next:  <br/>
 <img src="https://i.imgur.com/OMnz9BC.png" height="80%" width="80%" alt="ERD"/>
 <br />
 <br />
-Continuous press F12 on reboot to enter the boot menu: <br/>
-Select Boot from USB: <br/>
-<img src="https://i.imgur.com/Ys7jEOx.jpeg" height="80%" width="80%" alt="Keys"/>
+Use the ISO image dropdown to select your iso and click next: <br/>
+<img src="https://i.imgur.com/jEEnwr4.png" height="80%" width="80%" alt="Keys"/>
 <br />
 <br />
 Select Proxmox VE GNU/Linux to initialize the installer:  <br/>
