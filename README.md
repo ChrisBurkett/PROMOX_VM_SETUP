@@ -33,8 +33,8 @@ Use the ISO image dropdown to select your iso and click next: <br/>
 <img src="https://i.imgur.com/jEEnwr4.png" height="80%" width="80%" alt="Keys"/>
 <br />
 <br />
-Select Proxmox VE GNU/Linux to initialize the installer:  <br/>
-<img src="https://i.imgur.com/qZJHivm.jpeg" height="80%" width="80%" alt="RMA"/>
+The system page you can add a TPM if required or change the bois, then click next:  <br/>
+<img src="https://i.imgur.com/Ww3yt18.png" height="80%" width="80%" alt="RMA"/>
 <br />
 <br />
 I used the Install Proxmox VE (Terminal UI) because my graphics cards is failing and this server will be running headless:  <br/>
