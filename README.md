@@ -61,9 +61,8 @@ Verify your VM info and click Finish:  <br/>
 <img src="https://i.imgur.com/7RJGQpl.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
-Verfy your server IP is outside of your DCHP:  <br/>
-Fix your IP address on your network for your new server: <br/>
-<img src="https://i.imgur.com/FyWXyk9.png" height="80%" width="80%" alt="Desk"/>
+Locate your VM on the sidebar to the left and right click and left click start:  <br/>
+<img src="https://i.imgur.com/5vTYPFM.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
 Navigate to your Proxmox server address in a web browser:  <br/>
