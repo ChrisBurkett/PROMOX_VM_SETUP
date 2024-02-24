@@ -43,10 +43,10 @@ Click next <br/>
 <img src="https://i.imgur.com/gx9uMfE.png" height="80%" width="80%" alt="Records"/>
 <br />
 <br />
-Accept the ULA:  <br/>
-Select the drive to install Proxmox:  <br/>
-Select your Country, Timezone, and Keyboard:  <br/>
-<img src="https://i.imgur.com/r9EIJ1y.png" height="80%" width="80%" alt="Desk"/>
+Change CPU settings here:  <br/>
+Take special note on how many Cores you are relocating to this machine, default is 1 core:  <br/>
+Click Next:  <br/>
+<img src="https://i.imgur.com/ugUmjOE.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
 Add a strong root password:  <br/>
