@@ -65,10 +65,10 @@ Locate your VM on the sidebar to the left and right click and left click start: 
 <img src="https://i.imgur.com/5vTYPFM.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
-Navigate to your Proxmox server address in a web browser:  <br/>
-User name, root:  <br/>
-Use your admin password and login:  <br/>
-<img src="https://i.imgur.com/pEEyKWe.png" height="80%" width="80%" alt="Desk"/>
+CLick on your VM on the left panel and click on Console next:  <br/>
+Install your VM if required:  <br/>
+Click the rigth CTRL button to take your mouse off of the VM:  <br/>
+<img src="https://i.imgur.com/q0fxv6a.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
 Click OK for No valid subscription, Proxmox does not require a subscription:  <br/>
