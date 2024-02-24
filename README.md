@@ -24,9 +24,9 @@ This will upload the ISO onto your Promox storage: <br/>
 <img src="https://i.imgur.com/9jE7v71.png" height="80%" width="80%" alt="Creating"/>
 <br />
 <br />
-Find and enable SVM Mode (Secure Virtual Machine):  <br/>
-Save and exit the Bios menu:  <br/>
-<img src="https://i.imgur.com/ugEpUHT.jpeg" height="80%" width="80%" alt="ERD"/>
+Click "Create VM" in the top right the GUI:  <br/>
+Give your VM a name and click next:  <br/>
+<img src="https://i.imgur.com/OMnz9BC.png" height="80%" width="80%" alt="ERD"/>
 <br />
 <br />
 Continuous press F12 on reboot to enter the boot menu: <br/>
