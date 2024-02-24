@@ -37,8 +37,10 @@ The system page you can add a TPM if required or change the bois, then click nex
 <img src="https://i.imgur.com/Ww3yt18.png" height="80%" width="80%" alt="RMA"/>
 <br />
 <br />
-I used the Install Proxmox VE (Terminal UI) because my graphics cards is failing and this server will be running headless:  <br/>
-<img src="https://i.imgur.com/EQ0sMkF.jpeg" height="80%" width="80%" alt="Records"/>
+Change any storage settings needed here:  <br/>
+Note! Storage bandwidth settings can be changed with the bandwidth tab here:  <br/>
+Click next <br/>
+<img src="https://i.imgur.com/gx9uMfE.png" height="80%" width="80%" alt="Records"/>
 <br />
 <br />
 Accept the ULA:  <br/>
