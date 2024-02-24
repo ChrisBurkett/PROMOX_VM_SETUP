@@ -53,11 +53,8 @@ Change memory allocation here and click next:  <br/>
 <img src="https://i.imgur.com/69Y0G3l.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
-Select Management Interface (Internet access):  <br/>
-Pick a hostname, something.something:  <br/>
-Pick an IP address for your Proxmox ensure this IP is outside of your DCHP range:  <br/>
-Select your gateway and DNS server address (Depending on your setup, these may be the same):  <br/>
-<img src="https://i.imgur.com/JtQJOzc.png" height="80%" width="80%" alt="Desk"/>
+Choose what network interface card you want your VM to use, click next:  <br/>
+<img src="https://i.imgur.com/TB12V0K.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
 Verify your info and Install:  <br/>
